@@ -1,0 +1,6 @@
+apiVersion: v2
+name: abs
+description: QuickDeploy symlink test chart (balerion, H1C3)
+type: application
+version: 0.1.0
+appVersion: "1.0"
